@@ -6,10 +6,9 @@
   <img align="center" alt="Luxe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Luxe-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Luxe-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Luxe-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/898171684341837844/1038433544529252423/logo.jpg">
 </div>
   
-  ##
+<br>
  
 <div> 
   <a href="https://www.youtube.com/channel/UCxtnrt5C2cTVv4mk33fH3Cw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
