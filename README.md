@@ -26,3 +26,25 @@
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
+<p> ---- </p>
+
+<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Views&color=bb2527&style=flat&style=for-the-badge&query=%24.views&url=https://api.github-star-counter.workers.dev/user/LuxeGamingYT" alt="Profile Views"></a>
+<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=bb2527&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/LuxeGamingYT" alt="Profile Stars"></a>
+<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=bb2527&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/LuxeGamingYT" alt="Profile Forks"></a>
+
+```python
+print(f'Follow {LuxeGamingYT} on Github')
+```
+
+```python
+       OS  :  Windows Pro 10
+   Python  :  python 3.9.13
+Languages  :  Python, Java, SQL, Js, HTML/CSS
+  Discord  :  None
+   Server  :  None
+```
+
+```json
+Knowledge is power.
+```
