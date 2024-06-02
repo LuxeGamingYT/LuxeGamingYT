@@ -22,11 +22,10 @@ print(f'Follow {LuxeGamingYT} on Github')
 ```
 
 ```python
-       OS  :  Windows Pro 10
-   Python  :  python 3.9.13
+       OS  :  macOS Sonoma 14.5 & Windows 11 Pro
 Languages  :  Python, Java, SQL, Js, HTML/CSS
-  Discord  :  None
-   Server  :  None
+  Discord  :  https://discord.luxehost.nl/
+  LuxeHost :  https://luxehost.nl/
 ```
 
 ```json
