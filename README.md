@@ -8,10 +8,13 @@
 
 <br>
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-<br>
 
- ##
-<br>
+ ***
+
+<a href="https://discord.com/users/148371036419653633/"><img src="https://discord.c99.nl/widget/theme-3/498094279793704991.png"></a> <a href="https://discord.gg/luxehost"><img src="https://discord.com/api/guilds/834517759815057438/widget.png?style=banner2"></a>
+
+***
+ <br>
 
 ```python
 print(f'Follow {LuxeGamingYT} on Github')
