@@ -17,9 +17,9 @@ print(f'Follow {LuxeGamingYT} on Github')
 ```
 
 ```python
-       OS  :  macOS Sonoma 14.5 & Windows 11 Pro
+       OS  :  macOS Sonoma 14.6.1 & Windows 11 Pro
 Languages  :  Python, Java, SQL, Js, HTML/CSS
-  Discord  :  https://discord.luxehost.nl/
+  Discord  :  https://discord.gg/luxehost
   Business :  https://luxehost.nl/
 ```
 
