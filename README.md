@@ -1,4 +1,4 @@
-<br><br>
+<br>
 <div align="center">
 
 <a href="https://discord.com/users/148371036419653633/">
