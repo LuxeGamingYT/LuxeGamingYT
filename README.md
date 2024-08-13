@@ -1,5 +1,5 @@
 <br>
-<a href="https://discord.com/users/148371036419653633/"><img src="https://discord.c99.nl/widget/theme-4/148371036419653633.png"></a>
+<a align="center" href="https://discord.com/users/148371036419653633/"><img src="https://discord.c99.nl/widget/theme-4/148371036419653633.png"></a>
 
 <br>
 
@@ -12,7 +12,7 @@
 </div>
 
 <div>
- <img style="" src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+ <img align="center" src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 </div>
 
  ***
