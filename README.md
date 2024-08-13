@@ -18,7 +18,7 @@
 </a>
 <img src="https://komarev.com/ghpvc/?username=LuxeGamingYT&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
 
-<br><br>
+<br>
 
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
