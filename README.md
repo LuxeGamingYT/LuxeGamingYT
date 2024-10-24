@@ -33,10 +33,10 @@ print(f'Follow {LuxeGamingYT} on Github')
 ```
 
 ```python
-       OS  :  macOS Sonoma 14.6.1 & Windows 11 Pro
-Languages  :  Python, Java, SQL, Js, HTML/CSS
+       OS  :  Windows 11 Pro
+Languages  :  Python, Java, SQL, Js, HTML/CSS, PHP
   Discord  :  https://discord.gg/luxehost
-  Business :  https://luxehost.nl/
+  Website :  https://luxehost.nl/
 ```
 
 ```json
