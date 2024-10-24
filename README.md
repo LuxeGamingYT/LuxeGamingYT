@@ -36,7 +36,7 @@ print(f'Follow {LuxeGamingYT} on Github')
        OS  :  Windows 11 Pro
 Languages  :  Python, Java, SQL, Js, HTML/CSS, PHP
   Discord  :  https://discord.gg/luxehost
-  Website :  https://luxehost.nl/
+  Website  :  https://luxehost.nl/
 ```
 
 ```json
