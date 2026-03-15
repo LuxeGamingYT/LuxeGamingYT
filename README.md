@@ -16,22 +16,24 @@
 
 </div>
 
-<br><br>
+---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=BasYoungfox&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=BasYoungfox&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BasYoungfox&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 📊 GitHub Stats
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=BasYoungfox&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=LuxeGamingYT&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+
+![](https://nirzak-streak-stats.vercel.app/?user=LuxeGamingYT&theme=dark&hide_border=false)
+
+![](https://github-profile-trophy.vercel.app/?username=LuxeGamingYT&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+
+</div>
 
 ---
 
-### About Me
+## About Me
 
-- Developer & cloud enthusiast  
-- Building projects and communities  
-- Always learning new things  
-
----
+- Developer & cloud enthusiast
+- Building projects and communities
+- Always learning new things
