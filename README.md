@@ -18,8 +18,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
 <div align="center">
 
 ![](https://github-readme-stats.vercel.app/api?username=LuxeGamingYT&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
@@ -29,11 +27,3 @@
 ![](https://github-profile-trophy.vercel.app/?username=LuxeGamingYT&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
 </div>
-
----
-
-## About Me
-
-- Developer & cloud enthusiast
-- Building projects and communities
-- Always learning new things
