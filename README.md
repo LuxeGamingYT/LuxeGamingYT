@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hello 👋
+# Hi 👋
 
 <a href="https://discord.gg/virtcloud" target="_blank">
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
@@ -16,12 +16,11 @@
 
 </div>
 
-<div align="center">
+<br>
 
-![](https://github-readme-stats.vercel.app/api?username=LuxeGamingYT&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+## About Me
 
-![](https://nirzak-streak-stats.vercel.app/?user=LuxeGamingYT&theme=dark&hide_border=false)
+Hi, I'm **Milan** a developer and digital creator from the Netherlands.
 
-![](https://github-profile-trophy.vercel.app/?username=LuxeGamingYT&theme=dark&no-frame=false&no-bg=true&margin-w=4)
-
-</div>
+Currently working on my personal portfolio:  
+<a href="https://ikbenmilan.nl" target="_blank">ikbenmilan.nl</a>
